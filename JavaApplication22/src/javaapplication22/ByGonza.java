@@ -29,14 +29,4 @@ public class ByGonza extends JFrame {
         setVisible(true);
     }
 
-    /*  //  Se comenta este metodo ya que la llamada se hace desde el main de la clase 
-    public static void main(String[] args) {
-        SwingUtilities.invokeLater(new Runnable() {
-            @Override
-            public void run() {
-                new ByGonza();
-            }
-        });//Aqui termina la llamada!
-    }
-  */
-}
+ }
